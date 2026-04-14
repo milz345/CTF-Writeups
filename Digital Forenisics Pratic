@@ -1,0 +1,13 @@
+## Challenge: RED
+**Category:** Digital Forensics
+**Source:** PicoCTF / Cybersecurity Workshop Club
+
+**What it was:** A red image file with text hidden inside using steganography.
+
+**How I solved it:** Uploaded the image to Aperi'Solve for steganography 
+analysis, then used CyberChef to further decode the extracted data and 
+reveal the hidden text.
+
+**What I learned:** Hands-on introduction to steganography and image 
+forensics — a technique used to hide data inside image files, relevant 
+to digital forensics and incident response. 
